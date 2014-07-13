@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Summer2014-master(2)\Summer2014-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-83224d052cfc303c3de5c506c24ed2dc715ba63c.jar"
+        jar="C:\Android\android-studio1\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Summer2014-master(2)\Summer2014-master\app\build\intermediates\pre-dexed\debug\classes-0b12a48dbafb2e02deb2885494f48ebdad3dd191.jar"
+        jar="C:\Summer2014-master(2)\Summer2014-master\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Summer2014-master(2)\Summer2014-master\app\build\intermediates\pre-dexed\debug\quickblox-android-1.2.3-638f8cb17926b8b42fbed53923f27980fc93961f.jar"
+        jar="C:\Summer2014-master(2)\Summer2014-master\app\libs\quickblox-android-1.2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="820df7ff10d17f94585e56a7619018cbea186fa7"/>
+
+</pre-dex-items>
